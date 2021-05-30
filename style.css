@@ -352,7 +352,9 @@ body{
 }
 
 .popover--jetstream{
-	top: 0;
+	top: 200px;
+	bottom: 1000px;
+	
 }
 
 .popover--ballon{
